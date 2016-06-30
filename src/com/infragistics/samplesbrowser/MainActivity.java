@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
         paddingSmall = (int)TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP,
                 2, getResources().getDisplayMetrics());
 
-        setTitle("Area Series");
+        setTitle("3423423423");
         _currentTitle = getTitle();
         _drawerTitle = getTitle();
         _drawerLayout = (DrawerLayout)findViewById(R.id.drawer_layout);

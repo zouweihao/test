@@ -147,7 +147,7 @@ public class MainActivity extends Activity {
                 break;
             case CATEGORY_HORIZONTAL_SERIES:
                 setActiveSample(new ChartCategoryHorizontalSeriesSample(this, info, true, false));
-                //CreateHorizontalCategorySample(info, false);
+                int i = 0;
                 break;
             case CATEGORY_HORIZONTAL_SERIES_SMALLDATA:
                 setActiveSample(new ChartCategoryHorizontalSeriesSample(this, info, false, true));
